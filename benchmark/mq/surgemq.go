@@ -3,7 +3,7 @@ package mq
 import (
 	"github.com/surge/surgemq/service"
 
-	"github.com/ThePolarNight/mq-benchmark/benchmark"
+	"github.com/ThePolarNight/mq-benchmarking/benchmark"
 	"github.com/surgemq/message"
 )
 

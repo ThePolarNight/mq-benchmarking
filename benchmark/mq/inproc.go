@@ -1,6 +1,6 @@
 package mq
 
-import "github.com/ThePolarNight/mq-benchmark/benchmark"
+import "github.com/ThePolarNight/mq-benchmarking/benchmark"
 
 type Inproc struct {
 	handler benchmark.MessageHandler

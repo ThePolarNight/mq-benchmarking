@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ThePolarNight/mq-benchmark/benchmark"
+	"github.com/ThePolarNight/mq-benchmarking/benchmark"
 	"github.com/kr/beanstalk"
 )
 

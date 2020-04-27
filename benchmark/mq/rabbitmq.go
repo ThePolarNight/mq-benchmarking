@@ -3,7 +3,7 @@ package mq
 import (
 	"fmt"
 
-	"github.com/ThePolarNight/mq-benchmark/benchmark"
+	"github.com/ThePolarNight/mq-benchmarking/benchmark"
 	"github.com/streadway/amqp"
 )
 
