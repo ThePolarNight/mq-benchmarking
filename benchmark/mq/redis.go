@@ -1,8 +1,8 @@
 package mq
 
 import (
+	"github.com/ThePolarNight/mq-benchmark/benchmark"
 	"github.com/garyburd/redigo/redis"
-	"github.com/tylertreat/mq-benchmarking/benchmark"
 )
 
 type Redis struct {

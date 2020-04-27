@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
+	"github.com/ThePolarNight/mq-benchmark/benchmark"
 	"github.com/kr/beanstalk"
-	"github.com/tylertreat/mq-benchmarking/benchmark"
 )
 
 type Beanstalkd struct {

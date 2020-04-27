@@ -3,8 +3,8 @@ package mq
 import (
 	"time"
 
+	"github.com/ThePolarNight/mq-benchmark/benchmark"
 	"github.com/op/go-nanomsg"
-	"github.com/tylertreat/mq-benchmarking/benchmark"
 )
 
 type Nanomsg struct {

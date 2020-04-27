@@ -3,8 +3,8 @@ package mq
 import (
 	"time"
 
+	"github.com/ThePolarNight/mq-benchmark/benchmark"
 	"github.com/pebbe/zmq4"
-	"github.com/tylertreat/mq-benchmarking/benchmark"
 )
 
 type Zeromq struct {

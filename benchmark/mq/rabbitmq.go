@@ -3,8 +3,8 @@ package mq
 import (
 	"fmt"
 
+	"github.com/ThePolarNight/mq-benchmark/benchmark"
 	"github.com/streadway/amqp"
-	"github.com/tylertreat/mq-benchmarking/benchmark"
 )
 
 type consumer struct {
